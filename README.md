@@ -6,4 +6,6 @@
 
 # .NET Developer | ASP.NET | JavaScript | jQuery | SQL Server | AngularJS | SharePoint | ASP.NET Core WebForms
 
+📫 How to reach me: msana4280@gmail.com or on LinkedIn
+
 Feel free to reach out! Let's code and create wonders! 🌟
